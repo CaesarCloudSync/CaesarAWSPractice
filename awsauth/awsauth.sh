@@ -1,0 +1,1 @@
+aws configure import --csv file://rootkey.csv
